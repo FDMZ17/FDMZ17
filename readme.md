@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NodeJS**
 
-- Me at [Replit](https://replit.com/@FDMZ17)
+- 💬 Me at [Replit](https://replit.com/@FDMZ17)
 
 - 👨‍💻 All of my projects are available at [FDMZ17](https://fdmz17.tk)
 
