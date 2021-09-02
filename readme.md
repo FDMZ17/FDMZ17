@@ -20,7 +20,6 @@
 <a href="https://codepen.io/fdmz17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="fdmz17" height="30" width="40" /></a>
 <a href="https://codesandbox.com/fdmz17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="fdmz17" height="30" width="40" /></a>
 <a href="https://instagram.com/fdmz17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fdmz17" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/fdmz17 animation" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fdmz17 animation" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/fdmz17_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="fdmz17_dev" height="30" width="40" /></a>
 </p>
 
