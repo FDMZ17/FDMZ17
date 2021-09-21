@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fdmz17&label=Profile%20views&color=0e75b6&style=flat" alt="fdmz17" /> </p>
 
-- 🔭 I’m currently working on **BrainlyBot**
+- 🔭 I’m currently working on **FDMZ17Bot**
 
 - 🌱 I’m currently learning **NodeJS**
 
