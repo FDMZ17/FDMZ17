@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **FDMZ17Bot**
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **NodeJS & Python** 
 
 - 💬 Me at [Replit](https://replit.com/@FDMZ17)
 
@@ -13,7 +13,7 @@
 
 - 📫 Discord **FDMZ17#0001**
 
-- ⚡ Fun fact **I'm Indonesian**
+- ⚡ Fun fact **Nothing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
