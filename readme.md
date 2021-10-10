@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fdmz17&label=Profile%20views&color=0e75b6&style=flat" alt="fdmz17" /> </p>
 
-- 🔭 I’m currently working on **FDMZ17Bot**
+- 🔭 I’m currently working on [Discord.js Template](https://github.com/FDMZ17/discord.js-bot)
 
-- 🌱 I’m currently learning **NodeJS & Python** 
+- 🌱 I’m currently learning **NodeJS & Python**
 
 - 💬 Me at [Replit](https://replit.com/@FDMZ17)
 
