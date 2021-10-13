@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [FDMZ17](https://fdmz17.tk)
 
-- 📫 Discord **FDMZ17#0001**
+- 📫 Discord **FDMZ17#4616**
 
 - ⚡ Fun fact **Nothing**
 
