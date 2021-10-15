@@ -31,4 +31,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fdmz17&show_icons=true&locale=en&layout=compact" alt="fdmz17" /></p>
 
+[![Discord.JS Bot Template](https://github-readme-stats.vercel.app/api/pin/?username=FDMZ17&discord.js-bot&theme=radical)]
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fdmz17&" alt="fdmz17" /></p>
