@@ -11,7 +11,7 @@
 
 - 💬 Me at [Replit](https://replit.com/@FDMZ17)
 
-- 👨‍💻 All of my projects are available at [FDMZ17](https://fdmz17.tk)
+- 👨‍💻 All of my projects are available at [FDMZ17](https://fdmz17.repl.co)
 
 - 📫 Discord **FDMZ17#4616**
 
