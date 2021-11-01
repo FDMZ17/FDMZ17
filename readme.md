@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **NodeJS & Python**
 
-- 💬 Me at [Replit](https://replit.com/@FDMZ17)
+- 💬 My discord: FDMZ17#4616
 
 - 👨‍💻 All of my projects are available at [FDMZ17](https://fdmz17.repl.co)
 
