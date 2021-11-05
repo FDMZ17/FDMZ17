@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Discord.js Template](https://github.com/FDMZ17/discord.js-bot)
 
-- 🌱 I’m currently learning **NodeJS & Python**
+- 🌱 I’m currently learning **NodeJS & TypeScript**
 
 - 💬 My discord: FDMZ17#4616
 
