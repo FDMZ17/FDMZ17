@@ -13,8 +13,6 @@
 
 - 👨‍💻 All of my projects are available at [FDMZ17](https://fdmz17.repl.co)
 
-- 📫 Discord **FDMZ17#4616**
-
 - ⚡ Fun fact **Nothing**
 
 <h3 align="left">Connect with me:</h3>
