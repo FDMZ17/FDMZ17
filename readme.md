@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [FDMZ17](https://fdmz17.repl.co)
 
-- ⚡ Fun fact **Nothing**
+- ⚡ Fun fact I'm a student
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
