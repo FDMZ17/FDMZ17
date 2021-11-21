@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fdmz17&label=Profile%20views&color=0e75b6&style=flat" alt="fdmz17" /> </p>
 
-- 🔭 I’m currently working on [Discord.js Template](https://github.com/FDMZ17/discord.js-bot)
+- 🔭 I’m currently working on [Expressbin](https://github.com/FDMZ17/Expressbin)
 
 - 🌱 I’m currently learning **NodeJS & TypeScript**
 
 - 💬 My discord: FDMZ17#4616
 
-- 👨‍💻 All of my projects are available at [FDMZ17](https://fdmz17.repl.co)
+- 👨‍💻 All of my projects are available at [FDMZ17](https://fdmz17.github.io)
 
 - ⚡ Fun fact I'm a student
 
