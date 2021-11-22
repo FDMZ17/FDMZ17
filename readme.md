@@ -27,6 +27,8 @@
 
 [![Expressbin](https://github-readme-stats.vercel.app/api/pin/?username=FDMZ17&repo=Expressbin&theme=radical)](https://github.com/FDMZ17/Expressbin)
 
+[![CDN](https://github-readme-stats.vercel.app/api/pin/?username=FDMZ17&repo=CDN&theme=radical)](https://github.com/FDMZ17/CDN)
+
 [![FDMZ17's github stats](https://github-readme-stats.vercel.app/api?username=FDMZ17&count_private=true&include_all_commits=true&theme=radical)](https://github.com/FDMZ17)
 
 
