@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm FDMZ17</h1>
 
-[![Website](https://img.shields.io/website?label=FDMZ17.repl.co&style=for-the-badge&url=https://fdmz17.repl.co/)](https://fdmz17.github.io/)
+[![Website](https://img.shields.io/website?label=fdmz17.eu.org&style=for-the-badge&url=https://fdmz17.eu.org/)](https://fdmz17.eu.org/)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fdmz17&label=Profile%20views&color=0e75b6&style=flat" alt="fdmz17" /> </p>
