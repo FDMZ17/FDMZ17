@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Expressbin](https://github.com/FDMZ17/Expressbin)
 
-- 🌱 I’m currently learning **NodeJS & TypeScript**
+- 🌱 I’m currently learning **Javascript & CSS**
 
 - 💬 My discord: FDMZ17#4616
 
