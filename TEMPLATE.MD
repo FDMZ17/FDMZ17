@@ -1,10 +1,10 @@
-<h1 align="center">
+  <h1 align="center">
   <i>Hello!</i>
 </h1>
 
 
 ```sh
-~/: gitfetch
+~/: ./gitfetch.sh
 ```
 
 <img align="left" src="https://avatars.githubusercontent.com/u/85776604?v=4" width="290" />
