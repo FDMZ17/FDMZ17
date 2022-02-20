@@ -21,7 +21,8 @@ hobbies  • gaming, code
 discord  • FDMZ17#4616
 website  • https://fdmz17.eu.org
 
+language • {{ LANGUAGE_PERCENT }}
 repos    • 16
-commits  • 208
+commits  • 209
 issues   • 0
 ```
