@@ -19,6 +19,7 @@ pronouns • he/him
 learning • html, node.js, bash
 hobbies  • gaming, code
 discord  • FDMZ17#4616
+website  • https://fdmz17.eu.org
 
 repos    • {{ REPOSITORIES }}
 commits  • {{ COMMITS }}
