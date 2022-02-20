@@ -20,7 +20,7 @@ learning • html, node.js, bash
 hobbies  • gaming, code
 discord  • FDMZ17#4616
 
-repos    • {{ REPOSITORIES }}
-commits  • {{ COMMITS }}
-issues   • {{ ISSUES }}
+repos    • 16
+commits  • 207
+issues   • 0
 ```
