@@ -17,12 +17,10 @@ shell    • zsh 5.8
 
 pronouns • he/him
 learning • html, node.js, bash
-hobbies  • gaming, code
 discord  • FDMZ17#4616
 website  • https://fdmz17.eu.org
 
-language • {{ LANGUAGE_PERCENT }}
 repos    • 16
-commits  • 209
+commits  • 210
 issues   • 0
 ```
