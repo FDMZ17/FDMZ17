@@ -21,6 +21,7 @@ hobbies  • gaming, code
 discord  • FDMZ17#4616
 website  • https://fdmz17.eu.org
 
+language • {{ LANGUAGE_PERCENT }}
 repos    • {{ REPOSITORIES }}
 commits  • {{ COMMITS }}
 issues   • {{ ISSUES }}
