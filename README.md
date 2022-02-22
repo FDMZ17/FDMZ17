@@ -14,6 +14,7 @@ fdmz17@git
 ------------------------------
 os       • Manjaro Linux x86_64
 shell    • zsh 5.8
+desktop  • Plasma
 
 status   • student
 learning • html, node.js, bash
@@ -21,6 +22,6 @@ discord  • FDMZ17#4616
 website  • https://fdmz17.eu.org
 
 repos    • 16
-commits  • 211
+commits  • 219
 issues   • 0
 ```
