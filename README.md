@@ -12,9 +12,9 @@
 ```haskell
 fdmz17@git
 ------------------------------
-os       • Manjaro Linux x86_64
+os       • Arch Linux x86_64
 shell    • zsh 5.8
-desktop  • Plasma
+wm       • dwm
 
 status   • student
 learning • html, node.js, bash
@@ -22,6 +22,6 @@ discord  • FDMZ17#4616
 website  • https://fdmz17.eu.org
 
 repos    • 17
-commits  • 258
+commits  • 259
 issues   • 0
 ```
