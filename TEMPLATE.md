@@ -12,9 +12,9 @@
 ```haskell
 fdmz17@git
 ------------------------------
-os       • Manjaro Linux x86_64
+os       • Arch Linux x86_64
 shell    • zsh 5.8
-desktop  • Plasma
+wm       • dwm
 
 status   • student
 learning • html, node.js, bash
