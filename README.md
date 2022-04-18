@@ -21,7 +21,7 @@ learning • html, node.js, bash
 discord  • FDMZ17#4616
 website  • https://fdmz17.eu.org
 
-repos    • 19
+repos    • 18
 commits  • 292
 issues   • 0
 ```
