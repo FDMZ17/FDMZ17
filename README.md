@@ -17,11 +17,12 @@ shell    • zsh 5.8
 wm       • dwm
 
 status   • student
-learning • html, node.js, bash
+learning • shell[bash], Javascript/NodeJS
+guilded  • fdmz17dev
 discord  • FDMZ17#4616
 website  • https://fdmz17.eu.org
 
 repos    • 18
-commits  • 406
+commits  • 408
 issues   • 0
 ```
